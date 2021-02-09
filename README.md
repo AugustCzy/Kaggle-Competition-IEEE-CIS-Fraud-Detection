@@ -1,3 +1,7 @@
+@settings {
+  font-size: 100;
+}
+
 # Kaggle-Competition-IEEE-CIS-Fraud-Detection
 
 ## Project Overview
