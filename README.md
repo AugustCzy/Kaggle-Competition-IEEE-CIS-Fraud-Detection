@@ -9,5 +9,5 @@
 
 ## Exploratory Data Analysis
 
-I examined the percentage of missing values, distribution of the data, counts for various categorical variables. Below are a few highlights.{font-size: 75;}
+I examined the percentage of missing values, distribution of the data, counts for various categorical variables. Below are a few highlights.
 ![](images/allinone.png)
