@@ -1,6 +1,3 @@
-@settings {
-  font-size: 100;
-}
 
 # Kaggle-Competition-IEEE-CIS-Fraud-Detection
 
@@ -12,5 +9,5 @@
 
 ## Exploratory Data Analysis
 
-I examined the percentage of missing values, distribution of the data, counts for various categorical variables. Below are a few highlights. 
+I examined the percentage of missing values, distribution of the data, counts for various categorical variables. Below are a few highlights.{font-size: 75;}
 ![](images/allinone.png)
