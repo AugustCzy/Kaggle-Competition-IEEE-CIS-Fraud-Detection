@@ -10,4 +10,5 @@
 ## Exploratory Data Analysis
 
 I examined the percentage of missing values, distribution of the data, counts for various categorical variables. Below are a few highlights.
+
 ![](images/allinone.png)
