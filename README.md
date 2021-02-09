@@ -7,8 +7,7 @@
 * Dataset: https://www.kaggle.com/c/ieee-fraud-detection/data 
 
 ## Exploratory Data Analysis
-
-![](images/missing_values.png)
+![](images/missing_values.png){:height="50%" width="50%"}
 ![](images/monetary_distribution.png)
 ![](images/time_distribution.png)
 ![](images/corr.png)
